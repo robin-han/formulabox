@@ -1,17 +1,4 @@
-﻿/*
-*
-* SpreadJS Library 3.20141.10
-* http://wijmo.com/
-*
-* Copyright(c) GrapeCity, Inc.  All rights reserved.
-*
-* Licensed under the Wijmo Commercial License. Also available under the GNU GPL Version 3 license.
-* licensing@wijmo.com
-* http://wijmo.com/widgets/license/
-*
-*
-**/
-var wijmo;
+﻿var wijmo;
 (function (wijmo) {
     ///<reference path="feature.ts" />
     ///<reference path="common.ts" />
